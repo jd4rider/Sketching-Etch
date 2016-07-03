@@ -1,0 +1,41 @@
+li{
+  display: inline-block;
+  list-style-type: none;
+  height:19px;
+  width: 19px;
+  border: 1.2px black solid;
+  margin: 0 1px;
+  box-sizing: border-box;
+}
+li:hover{
+  background-color: purple;
+}
+
+.button{
+  margin: auto auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.wrapper{
+  margin: auto auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.zap{
+  margin: auto auto;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
